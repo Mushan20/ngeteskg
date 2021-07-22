@@ -1,6 +1,5 @@
 @media all and (max-width: 670px;) {
-  .gallery-icon {
-    width: 5%;
+  .heading h3 {
+    font-size: 80px;
   }
-
 }
